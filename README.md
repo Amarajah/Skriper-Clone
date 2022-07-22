@@ -6,7 +6,7 @@ A responsive page replica of the skriper website built using HTML & CSS by a tea
 Live view of the project [here](https://rachy222.github.io/Twitter-Home-Replica)
 ## credit
 ### Authors
-Code written by Ezeh Racheal, Offia Ngozi & MIMI.
+Code written by Ezeh Racheal, Offia Ngozi & MIMI Oriaku.
 * [RACHAEL](https://github.com/Rachy222)
 * [NGOZI](https://github.com/Khryztie)
-* [MIMI](https://github.com/Taofikatpurity01)
+* [MIMI](https://github.com/Mimioriaku)
