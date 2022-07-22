@@ -8,5 +8,5 @@ Live view of the project [here](https://rachy222.github.io/Twitter-Home-Replica)
 ### Authors
 Code written by Ezeh Racheal, Offia Ngozi & MIMI Oriaku.
 * [RACHAEL](https://github.com/Rachy222)
-* [NGOZI](https://github.com/Khryztie)
+* [NGOZI](https://github.com/Ngozi1)
 * [MIMI](https://github.com/Mimioriaku)
